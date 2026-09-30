@@ -1,0 +1,1 @@
+# Standalone HTML/CSS/JavaScript MVP. No external packages required.
