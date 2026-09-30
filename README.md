@@ -14,8 +14,5 @@ Samsung PRISM GenAI Hackathon 2026 prototype.
 ## Supported MVP flows
 TV restart, TV black screen, washing-machine door glass, washing-machine drainage, phone overheating, AC cooling.
 
-## Run
-Open `index.html` directly in Chrome or Edge. No Node.js or Docker required.
-
 ## Final GitHub tag
 `PRISM_GENAI_HACKATHON_Y2026`
